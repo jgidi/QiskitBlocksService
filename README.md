@@ -7,6 +7,8 @@ Flask/Python/Qiskit based HTTP service that runs Qiskit statevector and qasm sim
 2. Run the following commands to install the required Python libraries:
 
 - `pip install qiskit`
+- `pip install qiskit_aer`
+- `pip install typing_extensions`
 - `pip install flask`
 - `pip install json_tricks`
 
